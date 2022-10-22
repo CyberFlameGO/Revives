@@ -92,7 +92,7 @@ public class Events implements Listener {
             Player revivedp = (Player)revived;
             revivedp.setGameMode(GameMode.SURVIVAL);
             revivedp.teleport(loc);
-            Helper.sendMessage(revivedp, "You have been revived by " + player.getName() + "!");
+            // Helper.sendMessage(revivedp, "You have been revived by " + player.getName() + "!");
           } else {
             
             Helper.sendMessage(player, "Player is offline, they will respawn when they join back.");
