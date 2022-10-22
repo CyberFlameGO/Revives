@@ -1,4 +1,4 @@
-package me.tl0x.awakensmp.awakensmp;
+package net.cyberflame.revives;
 
 import java.util.ArrayList;
 import java.util.List;
