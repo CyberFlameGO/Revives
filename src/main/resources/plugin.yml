@@ -1,0 +1,10 @@
+name: Revives
+version: '1.0'
+main: net.cyberflame.revives.Revives
+api-version: 1.18
+authors: [ CyberFlame ]
+description: Plugin edit
+website: cyberfla.me
+commands:
+  deadplayers:
+    description: Brings up a list of dead players
